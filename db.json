@@ -1,0 +1,31 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "firstname": "prajyot",
+      "lastname": "prajyot",
+      "email": "prajyot@gmail.com",
+      "mobile": "9090909090",
+      "salary": "50000"
+    },
+    {
+      "id": 3,
+      "firstname": "chandu",
+      "lastname": "chandu",
+      "email": "chandu@gmail.com",
+      "mobile": "9090909090",
+      "salary": "3000"
+    },
+    {
+      "id": 5,
+      "firstname": "saiprasad",
+      "lastname": "chindam",
+      "email": "saiprasadchindam@gmail.com",
+      "mobile": "0808 070 7195",
+      "salary": "30000"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
